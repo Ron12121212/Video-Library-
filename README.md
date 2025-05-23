@@ -71,11 +71,11 @@ The project consists of the following files:
     Program Source Code: The main executable file that runs the system.
     Accounts.txt: Stores login credentials.
     Database.txt: Contains the movies and TV shows.
-    watch lists.txt: Stores users' watchlists.
+    watch lists.txt: Stores users' watchlist.
 
 
 
-    License
+# License
 
 This project is licensed under a custom license:
 
